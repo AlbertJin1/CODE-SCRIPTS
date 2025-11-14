@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --add-data "ffmpeg.exe;." --add-data "icons;icons" --icon=app_icon.ico --name "VideoDownloaderPlus" --noconsole youtube.py
