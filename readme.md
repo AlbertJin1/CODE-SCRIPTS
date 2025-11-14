@@ -20,7 +20,7 @@ All of this is **100% for fun**. No clients. No KPIs. Just me, VS Code, and a dr
 |-------|-------------|------|
 | **[FileCompressorPython](FileCompressorPython/)** | A simple drag-and-drop file compressor with a beautiful dark UI. Compress folders in one click! | `Python`, `customtkinter`, `zipfile` |
 | **[FileCompressorV2ReactJS](FileCompressorV2ReactJS/)** | The React version — because why not try web dev at 2 AM? | `React`, `Vite`, `Tailwind CSS` |
-| **[Youtube Downloader](Youtube%20Downloader/)** | Download YouTube videos in MP4 (best quality) with subtitles and a sleek queue system. | `Python`, `customtkinter`, `yt-dlp`, `ffmpeg` |
+| **[Youtube Downloader](Youtube%20Downloader/)** | Download YouTube videos in MP4 (best quality) with subtitles. | `Python`, `customtkinter`, `yt-dlp`, `ffmpeg` |
 
 > *More chaos coming soon...*
 
