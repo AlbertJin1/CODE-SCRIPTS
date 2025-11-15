@@ -281,7 +281,7 @@ export default function App() {
                 alt="No feedback"
                 className="w-16 h-16 mx-auto mb-4 opacity-50"
               />
-              <p className="text-lg">No feedback yet. Be the first to rate!</p>
+              <p className="text-lg">No feedback yet. Waiting.</p>
             </div>
           )}
 
